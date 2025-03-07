@@ -31,10 +31,10 @@
 |**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
 | BSL | Iris 1.8.8 | ✅(8.4.02.1, all presets) |
-| Chocapic13 | Iris 1.8.8 | (✅V6 Lite, V9 Extreme, all presets) |
+| Chocapic13 | Iris 1.8.8 | ✅(V6 Lite, V9 Extreme, all presets) |
 | ComplementaryReimagined | Iris 1.8.8 | ✅(r5.4, High) |
 | ComplementaryUnbound | Iris 1.8.8 | ✅(r5.4, High) |
-| ComplementaryShaders | Iris 1.8.8 | *️⃣(4.7.2, 渲染错误高光处颜色异常) |
+| ComplementaryShaders | Iris 1.8.8 | ✅(v4.7.2, all presets) |
 | Derivative Main | Iris 1.8.8 | ✅(2.0.1, d24.4.14, all presets) |
 | photon | Iris 1.8.8 | ✅(v1.1, High) |
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, high) |
@@ -48,6 +48,15 @@
 | Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, all presets) |
 | Kappa | Iris 1.8.8 | *️⃣(5.2, 所有预设天空盒黑色) |
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
+
+# Shaderpack Screenshot
+- Kappa v5.2  
+![Kappa v5.2](/assets/shaderpack_screenshot/marble/kappa_v5.2.png)
+- UShader v2.2
+![UShader v2.2](/assets/shaderpack_screenshot/marble/ushader_2.2.png)
+- KappaPT P15
+![KappaPT P15](/assets/shaderpack_screenshot/marble/kappapt_p15.png)
+
 
 ## Notes
 在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试
