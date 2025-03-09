@@ -2,7 +2,7 @@
 
 ## Device Info
 
-- **SoC**:Qualcomm Snapdragon 7+Gen2 (SM7475)
+- **SoC**: Qualcomm Snapdragon 7+Gen2 (SM7475)
 - **GPU**: Adreno 725
 - **OS**: Android 15
 
@@ -26,6 +26,7 @@
 | Roughly Enough Items |✅(16.0.799) |
 | Distant Horizons | ✅(2.2.1-a) |
 | Modern UI | ✅(3.11.1.9) |
+| Immersive Portals Continued |*️⃣(6.0.7, 无法渲染传送门) |
 
 ## Shaderpack compatibility
 
@@ -36,6 +37,7 @@
 | Beyond Belief Legacy | Iris 1.8.8 | *️⃣(v1.2.4, 草无阴影渲染) |
 | Bliss | Iris 1.8.8 | *️⃣(v2.0.4, 阴影无法渲染) |
 | Chocapic13 | Iris 1.8.8 | ✅(V6 Lite-V9 Extreme, all presets) |
+| Chocapic13 HighPerformance Toaster | Iris 1.8.8 | ❌(v1, 无法渲染) |
 | ComplementaryReimagined | Iris 1.8.8 | ✅(r5.4, High) |
 | ComplementaryUnbound | Iris 1.8.8 | ✅(r5.4, High) |
 | ComplementaryShaders | Iris 1.8.8 | ✅(v4.7.2, all presets) |
@@ -51,6 +53,7 @@
 | Rethinking Voxels | Iris 1.8.8 | *️⃣(r0.1-beta6a, 阴影无法渲染) |
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
 | Tea | Iris 1.8.8 | ✅(v2.0.0_Dev7, all presets) |
+| Lux | Iris 1.8.8 | ✅(v1.1_patch2, all presets) |
 | SEUS | Iris 1.8.8 | ✅(v10-RC6, v11.0, all presets)|
 | SEUS E | Iris 1.8.8 | ✅(10-12, all presets) |
 | SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
@@ -62,28 +65,34 @@
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 | Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
 
+# Mod Screenshot
+### Immersive Portals Continued
+![immersive portals continued](/assets/Mod_screenshot/marble/immersive-portals-1.png)
+![immersive portals continued](/assets/Mod_screenshot/marble/immersive-portals-2.png)
 
 # Shaderpack Screenshot
-- Kappa v5.2  
+### Kappa v5.2  
 ![Kappa](/assets/shaderpack_screenshot/marble/kappa_v5.2.png)
-- UShader v2.2  
+### UShader v2.2  
 ![UShader](/assets/shaderpack_screenshot/marble/ushader_2.2.png)
-- KappaPT P15
+### KappaPT P15
 ![KappaPT](/assets/shaderpack_screenshot/marble/kappapt_p15.png)
-- SEUS DAZZLING v2.2.4
+### SEUS DAZZLING v2.2.4
 ![SEUS DAZZLING](/assets/shaderpack_screenshot/marble/SEUS-DAZZLING.png)
-- Revelation
+### Revelation
 ![Revelation](/assets/shaderpack_screenshot/marble/Revelation.png)
-- Rethinking Voxels r0.1-beta6a
+### Rethinking Voxels r0.1-beta6a
 ![Rethinking Voxels](/assets/shaderpack_screenshot/marble/rethinking-voxels.png)
-- Exposa 4.13
+### Exposa 4.13
 ![Exposa](/assets/shaderpack_screenshot/marble/exposa_4.13.png)
-- Bliss v2.0.4
+### Bliss v2.0.4
 ![Bliss](/assets/shaderpack_screenshot/marble/bliss_v2.0.4.png)
-- Beyond Belief Legacy v1.2.4
+### Beyond Belief Legacy v1.2.4
 ![Beyond Belief Legacy](/assets/shaderpack_screenshot/marble/beyondbelieflegacy_v1.2.4.png)
+### Chocapic13 HighPerformance Toaster
+![Chocapic13 HighPerformance Toaster](/assets/shaderpack_screenshot/marble/chocapic13_hpt.png)
 
-## Notes
+# Notes
 在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试
 
 不过即便是更新高通GPU驱动，Kappa和UShader的天空永远是黑色(可能是因为GPU有所阉割导致)
