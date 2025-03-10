@@ -26,7 +26,7 @@
 |**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
 | BSL | Iris 1.8.8 | ✅(8.4.01.2, all presets) |
-| Complementary | Iris 1.8.8 | *️⃣(r5.4) |
+| Complementary | Iris 1.8.8 | *️⃣<sup>1</sup>(r5.4)|
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, all presets) |
 | Photon | Iris 1.8.8 | ✅(v1.0a, all presets) |
 | IterationT | Iris 1.8.8 | ✅(3.2.0, all presets) |
@@ -35,4 +35,4 @@
 
 ## Notes
 
-N/A
+ <sup>1</sup> 高以下配置黑屏，高配置只能显示光轴，高以上配置无法加载光影。
