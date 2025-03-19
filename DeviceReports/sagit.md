@@ -8,7 +8,7 @@
 
 ## MobileGlues version tested
 
-1.1.0.2
+1.1.1
 
 ## Mod compatibility
 
@@ -27,9 +27,12 @@
 | Modernfix                   | ✅(5.20.2)                 |
 | Lithium                     | ✅(0.15.0)                 |
 | Roughly Enough Items        | ✅(16.0.799)               |
+| OK Zoomer                   | ✅(10.0.0-beta.8)          |
+| RyoamicLights               | ✅(0.2.11)                 |
+| Touch Controller            | ✅(0.1.5)                  |
 | Distant Horizons            | ❌(2.3.0-b)                |
 | Modern UI                   | ✅(3.11.1.9)               |
-| Immersive Portals Continued | \*️⃣(6.0.7, 无法渲染传送门) |
+| Immersive Portals Continued | \*️⃣(6.0.7, 无法渲染传送门)   |
 
 ## Shaderpack compatibility
 
