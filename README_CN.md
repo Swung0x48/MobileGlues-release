@@ -30,11 +30,15 @@
 
 3. 能够兼容部分具有自定义渲染流程的 Minecraft 模组，如 [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) 和 [Create](https://createmod.net)。
 
-# 关于插件应用
+# 开源链接
 
-插件应用已在 [MobileGlues-plugin](https://github.com/Swung0x48/MobileGlues-plugin) 开源。
+[MobileGlues](https://github.com/MobileGL-Dev/MobileGlues)
 
-除非另有说明，该仓库的内容均以 [ECVL V1.0 许可证](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md) 开源。
+[MobileGlues-plugin](https://github.com/MobileGL-Dev/MobileGlues-plugin)
+
+# 开源许可证
+
+MobileGlues 和它的插件应用程序都以 **GNU LGPL-2.1 License** 开源.
 
 # 加入我们
 
@@ -60,10 +64,6 @@
 >   - 存在部分功能缺失或渲染问题的项目标记为 \*️⃣（并提交问题或提供问题链接）。
 > - 如适用，您可以在 "额外驱动/插件" 列中说明您使用的除官方提供之外的其他驱动或插件（如 Turnip 驱动、ANGLE 等）。
 > - 如适用，您应添加一个 `*设备代号*.md` 文件，提供更多详细信息，并在表格的最后一列附上链接。
-
-# 版权声明
-
-版权所有 (C) 2025 Swung0x48, BZLZHH, Tungsten。保留所有权利。标志设计由 Aou156 友情提供。
 
 # 第三方组件
 

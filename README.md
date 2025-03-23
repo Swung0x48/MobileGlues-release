@@ -32,11 +32,15 @@
 
 3. Capable of running some Minecraft mods with custom rendering routines, such as [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) and [Create](https://createmod.net).
 
-# About Plugin App
+# Open Source Links
 
-Plugin App has been open sourced at [MobileGlues-plugin](https://github.com/Swung0x48/MobileGlues-plugin).
+[MobileGlues](https://github.com/MobileGL-Dev/MobileGlues)
 
-Except where otherwise stated, the content of that repository is provided under [ECVL V1.0 license](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md).
+[MobileGlues-plugin](https://github.com/MobileGL-Dev/MobileGlues-plugin)
+
+# License
+
+MobileGlues and its plugin application are licensed under **GNU LGPL-2.1 License**.
 
 # Call to Action
 
@@ -62,10 +66,6 @@ We need your help to test the compatibility of shaders and mods, and a broad var
 >   - a asterisk (\*️⃣) if the item is working, but have missing features and/or have graphical glitches (and file an issue/link to the issue).
 > - If applicable, you may want to mention what additional drivers/plugins rather than the one vendor provides, are in use (such as turnip drivers, ANGLE, etc.) in the "Additional Drivers/Plugins in use" column.
 > - If applicable, you should add a file named `*device_codename*.md`, to provide additional information, and put the link in the last column.
-
-# Copyright
-
-Copyright (C) 2025 Swung0x48, BZLZHH, Tungsten. All rights reserved. Logo artwork kindly provided by Aou156.
 
 # Third party components
 

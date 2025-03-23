@@ -30,9 +30,15 @@
 
 3. [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) や [Create](https://createmod.net) など、カスタムレンダリングルーチンを持つ一部の Minecraft MOD を動作可能。
 
-# プラグインアプリについて
+# オープンソースリンク
 
-プラグインアプリは、[MobileGlues-plugin](https://github.com/Swung0x48/MobileGlues-plugin) にてオープンソース化されています。
+[MobileGlues](https://github.com/MobileGL-Dev/MobileGlues)
+
+[MobileGlues-plugin](https://github.com/MobileGL-Dev/MobileGlues-plugin)
+
+# オープンソースライセンス
+
+MobileGlues とそのプラグイン アプリケーションは、**GNU LGPL-2.1 ライセンス** に基づくオープン ソースです。
 
 特に明記されていない限り、このリポジトリのコンテンツは [ECVL V1.0 ライセンス](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md) の下で提供されています。
 
@@ -60,11 +66,6 @@
 >   - \*️⃣（アスタリスク）：動作するが、一部の機能が欠落またはグラフィックの不具合あり（問題を報告/リンクを添付）
 > - 必要に応じて、「Additional Drivers/Plugins in use（使用中の追加ドライバー/プラグイン）」の列に、ベンダー提供以外の追加ドライバーやプラグイン（例: Turnip ドライバー、ANGLE など）を記入してください。
 > - 必要に応じて `*device_codename*.md` というファイルを作成し、追加情報を提供し、最後の列にリンクを記載してください。
-
-# 著作権
-
-Copyright (C) 2025 Swung0x48, BZLZHH, Tungsten. All rights reserved.  
-ロゴアートワークは Aou156 により提供されました。
 
 # サードパーティコンポーネント
 
