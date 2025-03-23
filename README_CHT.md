@@ -10,15 +10,15 @@
 >
 > **1.1.1**
 >
-> 請查看 [Release](https://github.com/Swung0x48/MobileGlues-release/releases)
+> 請查看 [Release](https://github.com/MobileGL-Dev/MobileGlues-release/releases)
 
 > [!NOTE]
 >
-> 查看 [CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md) 以獲取兼容的 Minecraft 光影信息。
+> 查看 [CompatibleShaders.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleShaders.md) 以獲取兼容的 Minecraft 光影信息。
 >
-> 查看 [CompatibleMods.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleMods.md) 以獲取兼容的 Minecraft 模組信息。
+> 查看 [CompatibleMods.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleMods.md) 以獲取兼容的 Minecraft 模組信息。
 >
-> 查看 [模組支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)，了解您的設備運行情況。
+> 查看 [模組支持列表](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影支持列表](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md)，了解您的設備運行情況。
 
 **MobileGlues**，其名稱意為「(在)移動設備上，GL 使用 ES」，是一個基於 OpenGL ES 3.1 運行的 GL 實現，專為運行 Minecraft Java 版設計。
 
@@ -46,7 +46,7 @@ MobileGlues 和它的插件應用程式都以 **GNU LGPL-2.1 License** 開源.
 
 如果您對該項目感興趣，請考慮通過以下方式貢獻：
 
-填寫 [模組設備支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影設備支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)！
+填寫 [模組設備支持列表](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影設備支持列表](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md)！
 
 我們需要您的幫助來測試不同設備對著色器和模組的兼容性！
 

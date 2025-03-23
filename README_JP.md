@@ -10,15 +10,15 @@
 >
 > **1.1.1**
 >
-> [リリース](https://github.com/Swung0x48/MobileGlues-release/releases)を参照してください。
+> [リリース](https://github.com/MobileGL-Dev/MobileGlues-release/releases)を参照してください。
 
 > [!NOTE]
 >
-> 互換性のある Minecraft のシェーダーについては、[CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md)をご覧ください。
+> 互換性のある Minecraft のシェーダーについては、[CompatibleShaders.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleShaders.md)をご覧ください。
 >
-> 互換性のある Minecraft の MOD については、[CompatibleMods.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleMods.md)をご覧ください。
+> 互換性のある Minecraft の MOD については、[CompatibleMods.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleMods.md)をご覧ください。
 >
-> お使いのデバイスでの動作状況を確認するには、[Mod Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) または [Shader Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md) をご参照ください。
+> お使いのデバイスでの動作状況を確認するには、[Mod Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) または [Shader Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md) をご参照ください。
 
 **MobileGlues**（「モバイルで、GL は ES を使用する」の意）は、ホストの OpenGL ES 3.1 上で動作する GL 実装で、Minecraft Java Edition の実行を目的としています。
 
@@ -40,7 +40,7 @@
 
 MobileGlues とそのプラグイン アプリケーションは、**GNU LGPL-2.1 ライセンス** に基づくオープン ソースです。
 
-特に明記されていない限り、このリポジトリのコンテンツは [ECVL V1.0 ライセンス](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md) の下で提供されています。
+特に明記されていない限り、このリポジトリのコンテンツは [ECVL V1.0 ライセンス](https://github.com/MobileGL-Dev/MobileGlues-plugin/blob/main/LICENSE.md) の下で提供されています。
 
 # コール・トゥ・アクション
 
@@ -48,7 +48,7 @@ MobileGlues とそのプラグイン アプリケーションは、**GNU LGPL-2.
 
 このプロジェクトに興味がある方は、ぜひ以下の方法でプロジェクトに貢献してください！
 
-[Mod Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) や [Shader Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md) を記入してください！
+[Mod Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) や [Shader Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md) を記入してください！
 
 私たちは、シェーダーや MOD の互換性を確認し、多種多様なデバイスでテストするために、皆さんの協力を必要としています！
 

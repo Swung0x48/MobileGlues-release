@@ -12,15 +12,15 @@
 >
 > **1.1.1**
 >
-> See [Releases](https://github.com/Swung0x48/MobileGlues-release/releases)
+> See [Releases](https://github.com/MobileGL-Dev/MobileGlues-release/releases)
 
 > [!NOTE]
 >
-> See [CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md) to see compatible Minecraft shaders.
+> See [CompatibleShaders.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleShaders.md) to see compatible Minecraft shaders.
 >
-> See [CompatibleMods.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleMods.md) to see compatible Minecraft mods.
+> See [CompatibleMods.md](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/CompatibleMods.md) to see compatible Minecraft mods.
 >
-> See [Mod Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) or [Shader Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md) to check how your device works out.
+> See [Mod Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) or [Shader Support Matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md) to check how your device works out.
 
 **MobileGlues**, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.1, with running Minecraft Java Edition in mind.
 
@@ -48,7 +48,7 @@ Since we are a small team, we cannot own every distinct device and do through te
 
 If you are interested in this project, please consider contributing to the project by:
 
-Filling out the [mod support matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) or [shader support matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)!
+Filling out the [mod support matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ModSupportMatrix.md) or [shader support matrix](https://github.com/MobileGL-Dev/MobileGlues-release/blob/main/ShaderSupportMatrix.md)!
 
 We need your help to test the compatibility of shaders and mods, and a broad variety of devices!
 
