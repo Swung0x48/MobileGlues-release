@@ -32,6 +32,8 @@
 
 3. Capable of running some Minecraft mods with custom rendering routines, such as [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) and [Create](https://createmod.net).
 
+4. Additional QoL features: optional ANGLE as ES driver, shader caching for fast shaderpack reloads, supports Minecraft GPU% reporting, ...and more!
+
 # Open Source Links
 
 [MobileGlues](https://github.com/MobileGL-Dev/MobileGlues)
