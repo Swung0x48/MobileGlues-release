@@ -1,8 +1,7 @@
 name: Format docs on PR with Prettier
 
 on:
-  # https://stackoverflow.com/a/58740879
-  pull_request_target:
+  pull_request:
     branches: [main]
 
 jobs:
@@ -11,9 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PR_OP_GITHUB_TOKEN }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
           submodules: 'recursive'
 
       - name: Setup Node.js
@@ -27,9 +23,7 @@ jobs:
       - name: Format code with Prettier
         run: npx prettier -cw .
 
-      - name: Commit and push changes
-        run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "style: format code with prettier [skip ci]" && git push)
+      - uses: pre-commit-ci/lite-action@v1.1.0
+        if: always()
+        with:
+          msg: 'style: :rotating_light: auto fix [skip ci]'

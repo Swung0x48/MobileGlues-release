@@ -10,7 +10,7 @@
 >
 > The latest version:
 >
-> **1.2.0**
+> **1.2.2**
 >
 > See [Releases](https://github.com/MobileGL-Dev/MobileGlues-release/releases)
 
@@ -31,6 +31,8 @@
 2. Capable of rendering most minecraft shaders with Minecraft [Iris](https://github.com/IrisShaders/Iris) mod or [Optifine](https://optifine.net/home).
 
 3. Capable of running some Minecraft mods with custom rendering routines, such as [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) and [Create](https://createmod.net).
+
+4. Additional QoL features: optional ANGLE as ES driver, shader caching for fast shaderpack reloads, supports Minecraft GPU% reporting, ...and more!
 
 # Open Source Links
 

@@ -8,7 +8,7 @@
 >
 > 最新版本：
 >
-> **1.1.1**
+> **1.2.2**
 >
 > 請查看 [Release](https://github.com/MobileGL-Dev/MobileGlues-release/releases)
 
